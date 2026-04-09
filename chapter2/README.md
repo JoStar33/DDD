@@ -254,7 +254,7 @@ public class GetOutboundUseCaseImpl implements GetOutboundUseCase { ... }
 
 **생각해볼 것:**
 - "구현체가 하나뿐인 인터페이스"는 DIP를 올바르게 적용한 것인가, 오버엔지니어링인가?
-- 언제는 인터페이스가 필요하불고 언제는 필요한가? 기준을 어떻게 세울 수 있을까?
+- 언제는 인터페이스가 필요하지않고 언제는 필요한가? 기준을 어떻게 세울 수 있을까?
 
 ---
 
