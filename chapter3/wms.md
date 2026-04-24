@@ -1,6 +1,6 @@
 # Chapter 3. 애그리거트 — WMS 적용
 
-> **기준 프로젝트:** WMS (Spring Boot 3.2 / Java 17)
+> **기준 프로젝트:** WMS
 
 ---
 
