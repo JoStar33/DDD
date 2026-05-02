@@ -196,8 +196,3 @@ public class OrderSummary {
 - 검색 조건 조합은 `Specification`으로 다룹니다.
 - 정렬/페이징은 `Sort`, `Pageable`로 표현합니다.
 - 복잡한 조회 모델은 `select new`, `@Subselect`, QueryDSL, 네이티브 SQL 등 목적에 맞게 선택합니다.
-
----
-
-**같이 생각해볼 것:**
-- 화면별 DTO를 따로 만들면 중복인가, 명확한 계약인가?
